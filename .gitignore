@@ -29,4 +29,6 @@ build/
 # Temporary files
 *.tmp
 *.temp
-# End Generation Here
+.DS_Store
+*.DS_Store
+

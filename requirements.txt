@@ -1,2 +1,5 @@
 Pillow
 pathlib
+PyPDF2
+requests
+beautifulsoup4
